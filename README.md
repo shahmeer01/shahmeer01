@@ -2,6 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Shahmeer+Talib;Full-Stack+Developer;Flutter+%7C+Web+%7C+AI;Building+Digital+Products;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" width="100%" alt="Coding animation" />
+
+</div>
+
 <p>
 Building modern digital products that solve real problems.
 </p>
