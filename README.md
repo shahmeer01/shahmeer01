@@ -76,30 +76,25 @@ scalable, and user-friendly digital products.
 
 ## 🌟 Featured Projects
 
-### 🔐 Proof
+<div align="center">
 
-A trust-based platform for agreements and digital deals.
+<a href="https://github.com/shahmeer01/shahmeer01">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeer01&repo=shahmeer01&theme=transparent&hide_border=true" />
+</a>
 
-**Flutter · Supabase · Firebase**
+<a href="https://github.com/shahmeer01/New-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeer01&repo=New-Portfolio&theme=transparent&hide_border=true" />
+</a>
 
----
+<a href="https://github.com/shahmeer01/Skyline-New-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeer01&repo=Skyline-New-website&theme=transparent&hide_border=true" />
+</a>
 
-### 🧪 Vector Labs
+<a href="https://github.com/shahmeer01/LawMate-FrontEnd">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeer01&repo=LawMate-FrontEnd&theme=transparent&hide_border=true" />
+</a>
 
-A premium digital agency focused on modern digital solutions.
-
-**Next.js · TypeScript · Framer Motion**
-
----
-
-### 🌐 Skyline
-
-A modern digital agency website focused on branding,
-performance, and conversion.
-
-**Next.js · TypeScript · Tailwind CSS**
-
----
+</div>
 
 ## 📊 GitHub Statistics
 
