@@ -76,25 +76,65 @@ scalable, and user-friendly digital products.
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/shahmeer01/shahmeer01">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeer01&repo=shahmeer01&theme=transparent&hide_border=true" />
-</a>
+### 🔐 Proof
 
-<a href="https://github.com/shahmeer01/New-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeer01&repo=New-Portfolio&theme=transparent&hide_border=true" />
-</a>
+Trust-based platform for agreements,
+deals, identity, and secure interactions.
 
-<a href="https://github.com/shahmeer01/Skyline-New-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeer01&repo=Skyline-New-website&theme=transparent&hide_border=true" />
-</a>
+**Flutter · Supabase · Firebase**
 
-<a href="https://github.com/shahmeer01/LawMate-FrontEnd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeer01&repo=LawMate-FrontEnd&theme=transparent&hide_border=true" />
-</a>
+🔒 **Private Project**
 
-</div>
+</td>
+
+<td width="50%">
+
+### 🧪 Vector Labs
+
+Premium digital agency focused on
+modern digital solutions and automation.
+
+**Next.js · TypeScript · Framer Motion**
+
+🌐 **Agency Project**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Skyline
+
+Modern digital agency website focused
+on branding, performance, and conversion.
+
+**Next.js · TypeScript · Tailwind CSS**
+
+🚀 **Web Project**
+
+</td>
+
+<td width="50%">
+
+### ⚖️ LawMate
+
+Modern frontend application built
+for a legal technology concept.
+
+**JavaScript · HTML · CSS**
+
+💻 **Web Project**
+
+</td>
+</tr>
+</table>
+
+-------
 
 ## 📊 GitHub Statistics
 
