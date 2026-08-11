@@ -12,14 +12,7 @@
 Building modern digital products that solve real problems.
 </p>
 
-<p>
-<a href="https://github.com/shahmeer01">
-<img src="https://img.shields.io/badge/GitHub-shahmeer01-181717?style=flat-square&logo=github" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=flat-square&logo=google-chrome" />
-</a>
-</p>
+
 
 </div>
 
